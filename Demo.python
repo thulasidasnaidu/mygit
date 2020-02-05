@@ -1,0 +1,10 @@
+class topics
+{
+  git, ansible,
+  jenkins,
+  nagios,
+  Dockers
+  }
+  print "git, anible"
+  Print" new topics"
+  
