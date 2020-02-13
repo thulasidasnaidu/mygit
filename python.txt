@@ -1,0 +1,14 @@
+Python concepts
+{
+ Interpreted language
+ High level language
+ programming language
+}
+
+Python IDE's
+{ 
+ Anakonda
+ Eclipse
+ Visual studio
+}
+
